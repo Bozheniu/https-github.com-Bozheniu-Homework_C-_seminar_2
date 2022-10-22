@@ -1,0 +1,15 @@
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/bin/Debug/net6.0/test_1
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/bin/Debug/net6.0/test_1.deps.json
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/bin/Debug/net6.0/test_1.runtimeconfig.json
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/bin/Debug/net6.0/test_1.dll
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/bin/Debug/net6.0/test_1.pdb
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.csproj.AssemblyReference.cache
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.AssemblyInfoInputs.cache
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.AssemblyInfo.cs
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.csproj.CoreCompileInputs.cache
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.dll
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/refint/test_1.dll
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.pdb
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/test_1.genruntimeconfig.cache
+/Users/bozeniu/Desktop/Homework_C#_seminar2/test_1/obj/Debug/net6.0/ref/test_1.dll
